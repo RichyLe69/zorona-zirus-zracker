@@ -1,4 +1,6 @@
 # zorona zirus zracker
+![Alpha status](https://img.shields.io/badge/Project%20status-Alpha-red.svg)
+
  Corona virus Statistics Tracker
  
 Uses python and pyecharts for data visualization
@@ -32,6 +34,12 @@ dataset = pd.read_json('owid-covid-data.json')
 ```
 map_1.render()  # render the map in a local html file.
 ```
+
+# Example of Render
+![Alt Text](https://raw.githubusercontent.com/richardle17/zorona-zirus-zracker/master/zorona%20zirus%20demo.gif)
+Map is interactable and specific countries can be hovered over for specific case data. 
+
+Population legend of left side can be toggled to highlight countries of specified total case count.
 
 
 # Todo
