@@ -1,5 +1,9 @@
 # zorona zirus zracker
 ![Alpha status](https://img.shields.io/badge/Project%20status-Alpha-red.svg)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 
  Corona virus Statistics Tracker
  

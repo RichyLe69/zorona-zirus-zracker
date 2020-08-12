@@ -9,7 +9,7 @@ from pyecharts.globals import ThemeType
 dataset = pd.read_csv('owid-covid-data.csv')
 
 
-date = '2020-08-05'
+date = '2020-08-09'
 
 # change date from object data type to datetime data type
 dataset['date'] = pd.to_datetime(dataset['date'])
